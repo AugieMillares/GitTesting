@@ -3,3 +3,4 @@ modified
 modified - 02
 modified - 03
 modified in master
+modified in branch apply-stash
