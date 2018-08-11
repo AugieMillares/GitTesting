@@ -7,7 +7,6 @@ public class Main {
         System.out.println("Hello World");
         //This is my intellij Changes
         System.out.printf("Any word");
-        //Another repo editing
         //Again another modification
     }
 }
