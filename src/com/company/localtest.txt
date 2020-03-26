@@ -5,5 +5,3 @@ modified - 03
 modified in master
 modified in branch apply-stash
 master modification
-
-revert mod1
